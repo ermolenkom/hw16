@@ -1,3 +1,3 @@
-1. Один поток 0:00:39.626954
-2. 5 потоков  0:00:39.888672
-3. 10 потоков Failed to establish a new connection: [WinError 10061] 
+1. РћРґРёРЅ РїРѕС‚РѕРє 0:00:39.626954
+2. 5 РїРѕС‚РѕРєРѕРІ  0:00:39.888672
+3. 10 РїРѕС‚РѕРєРѕРІ Failed to establish a new connection: [WinError 10061] 
